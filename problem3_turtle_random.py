@@ -1,4 +1,4 @@
-#Problème 3 : Dessin graphique aléatoire avec Turtlle
+#Problème 3 : Dessin graphique aléatoire avec Turtle
 
 import turtle
 import random
